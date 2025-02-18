@@ -69,3 +69,7 @@ group :test do
   gem 'simplecov'
   gem 'vcr'
 end
+
+gem "devise", "~> 4.9"
+
+gem 'simple_form'
